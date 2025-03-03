@@ -6,11 +6,11 @@ Work carried out by:
 -->
 # *HCI Project Logbook*
 
-**Title of the project**: [Title goes here]
+**Title of the project**: [LearnQuest]
 **Team:**
-- Student 1: [Name and Number] 
-- Student 2; [Name and Number]
-- Student 3: [Name and Number]
+- Student 1: [Catarina Ribeiro - 119467] 
+- Student 2; [Marta Cruz - 119572]
+- Student 3: [Matilde Rodrigues - 119714]
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
