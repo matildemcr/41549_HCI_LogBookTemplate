@@ -9,34 +9,49 @@
 
 # Personas
 
-## Persona: [Persona Name] 
+## Persona: Manuel Antunes 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
+| **Photo**        | ![Manuel Antunes\|100](personas/persona1.jpeg)  |
+| **Name**         | Manuel Antunes                                |
+| **Age**          | 20                                 |
+| **Occupation**   | Student at the University of Aveiro                           |
+| **Location**     | Aveiro, Portugal                               |
+| **Goals**        | Improve marks and productivity through task management, stay organized, and keep up with lectures/assignments.           |
+| **Pain Points**  | Procrastination, lack of motivation, and difficulty prioritizing tasks.              |
+| **Motivation**   | "I need a way to stay motivated and organized, so I don’t fall behind on assignments and exam prep. If studying felt more engaging, I’d probably be more consistent."                |
 | **Full Profile** | [📄 Read More](personas/persona1_template.md) |
 
 ---
-## Persona: [Persona Name] 
+## Persona: Joana Magalhães 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
+| **Photo**        | ![Joana Magalhães](personas/persona2.jpeg)            |
+| **Name**         | Joana Magalhães                                |
+| **Age**          | 38                                 |
+| **Occupation**   | High School Teacher                           |
+| **Location**     | Porto, Portugal                               |
+| **Goals**        | Develop good study habits in students through competitive strategies and ensure consistent study routines.           |
+| **Pain Points**  | Students often forget homework and participation in class is low.              |
+| **Motivation**   | "If I can make studying feel rewarding, my students will stay engaged and develop good habits. But I need a tool that’s simple and easy to manage without taking too much time from my teaching."                |
 | **Full Profile** | [📄 Read More](personas/persona2_template.md) |
+
+---
+## Persona: Leonor Ferreira 
+### Summary 
+| Attribute        | Details                                       |
+| ---------------- | --------------------------------------------- |
+| **Photo**        | ![Leonor Ferreira](personas/persona3.jpeg)            |
+| **Name**         | Leonor Ferreira                                |
+| **Age**          | 16                                 |
+| **Occupation**   | High School Student                           |
+| **Location**     | Porto, Portugal                               |
+| **Goals**        | Obtain a good average for university applications, earn rewards through competition, and prepare efficiently for tests.           |
+| **Pain Points**  | Struggles with procrastination and finds studying boring and difficult to stay consistent with.              |
+| **Motivation**   | "If studying felt more like a game, I wouldn't procrastinate as much. Seeing my progress and competing with my friends would make learning so much more fun and certainly would keep me on track."               |
+| **Full Profile** | [📄 Read More](personas/persona3_template.md) |
 
 ---
 
