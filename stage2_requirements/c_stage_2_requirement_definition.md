@@ -102,10 +102,60 @@
 
 
 ## C.1. Functional requirements
+**User Registration and Authentication**
 
+- The system must allow users (students and teachers) to create an account and log in, in a secure way;
+- Teachers should have admin privileges;
+
+**Task and challenge management**
+
+- Users should be able to create, edit and delete tasks;
+- The system should alert students when a task in a study challenge is modified;
+- The system should allow users to prioritise tasks and set difficulty levels;
+- Teachers should be able to assign tasks / challenges and track their student’s progress;
+
+**Gamification features**
+
+- Users should be able to earn XP through task completion, track streaks and view leaderboards;
+- The system must support reward mechanics (e.g virtual badges);
+
+**Progress tracking and analytics**
+
+- The system must provide a dashboard showing XP, progress bars, and completed tasks.
+- Users should be able to view personal statistics and improvement trends over time.
+
+**Notifications and reminders**
+
+- The system must send reminders for pending tasks and challenges deadlines;
+- The system must alert when users receive a new message;
+- Users should receive notifications about leaderboard updates and streak milestones;
+
+**Social and collaborative Features**
+
+- Students should be able to compare their progress with classmates;
+- Users must be able to create or join existing clans;
+- Users must be able to create collaborative tasks within a clan;
+- Users must be able to add and remove people to a clan;
 
 ## C.2. Non-functional requirements
+**Usability**
 
+- The interface must be intuitive and easy to use for both students and teachers.
+- The app should provide accessibility features (e.g., color contrast, screen reader compatibility).
+
+**Performance and scalability**
+
+- The system should handle multiple users simultaneously without lag.
+- The leaderboard and progress tracking should update in real time.
+
+**Security and data privacy**
+
+- User data (including progress and login details) must be stored securely
+
+**Cross-Platform Compatibility**
+
+- The application should run independently of device type;
+- Users should be able to sync their progress no matter the device being used;
 
 ---
 [Back to main Logbook Page](hci_logbook.md)
