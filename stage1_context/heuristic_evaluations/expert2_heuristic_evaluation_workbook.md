@@ -79,7 +79,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | ---------------                         | ------------ | -------------- |
 | Having to always refresh the Party chat | 3            | The chat server should be constantly listening for new messages and update the UI automatically without the need to refresh the page               |
 | Not at all intuitive (we have to select a filter to see the completed tasks)  | 4            | Perhaps making the completed tasks appear at the end of the list (with the not competed tasks above them) would be a more intuitive way for the user to aknowledge completed tasks               |
-| It is not possible to organize tasks in order of priority (or reorder them)   | 4            | Include this feature               |
+| You can only create challenges with other users, not tasks.   | 4            | Include this feature               |
 
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 

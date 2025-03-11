@@ -12,7 +12,7 @@
 
 **Primary Purpose:** [The application uses the format of a role-playing game to organize tasks.] 
 
-**Key Features:** - [Create tasks] - [Feature 2] - [Feature 3] 
+**Key Features:** - [Create tasks] - [Complete tasks] - [Create tasks with other users] 
 
 **Unique Selling Points (USPs):** - [Gamifies tasks with RPG mechanics, XP, levels, rewards, and team challenges.] 
 
