@@ -91,7 +91,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                                                                                              | **Severity** | Recommendation |
 | ------------------------------------------------------------------------------------------------------ | ------------ | -------------- |
 | 
-Too much irrelevant information (pop ups) at the beginning (does not explain some of the basic features) | 3             | Have a mini introduction for beginners to read and help them understand better the features               |
+At the beginning, there are a lot of pop-ups with information and the app is still very confusing |3             | Have a mini introduction for beginners to read and help them understand better the features               |
 | The aesthetics of the application are not very appealing   | 1            | Create a less pixelated avatar and add more appealing colors               |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors

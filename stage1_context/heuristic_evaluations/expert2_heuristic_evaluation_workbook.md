@@ -89,7 +89,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                                                                                              | **Severity** | Recommendation |
 | ------------------------------------------------------------------------------------------------------ | ------------ | -------------- |
 | 
-Too much irrelevant information (pop ups) at the beginning (does not explain some of the basic features) | 2             | Include a small tutorial with consise information about how to use the basic features. Implement a simple and intuitive UI so that the user easily understands where to go do to each task               |
+At the beginning, there are a lot of pop-ups with information and the app is still very confusing|2             | Include a small tutorial with consise information about how to use the basic features. Implement a simple and intuitive UI so that the user easily understands where to go do to each task               |
 | The aesthetics of the application are not very appealing   | 1            | Implement a minimal, intuitive design with more appealing colors and "game" art                |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors

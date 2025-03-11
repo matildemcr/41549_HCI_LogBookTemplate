@@ -10,17 +10,112 @@
 --- 
 ## Core Functionality 
 
-**Primary Purpose:** [The application uses the format of a role-playing game to organize tasks.] 
+**Primary Purpose:** 
+The app uses a game in which you have to keep an avatar alive and, as you complete tasks, you earn XP to level up and also earn gold coins to ustomize your avatar.
 
-**Key Features:** - [Create tasks] - [Complete tasks] - [Create tasks with other users] 
+**Key Features:** 
+- ***Create Tasks:*** You can create 3 types of tasks: Habits, Dailies and To Do's. You can create as many tasks as you want about anything and customize them with difficulty level to increase or decrease the XP they will give;
+  
+- ***Complete Tasks:*** After you create the tasks you can complete them and receve XP which was previously stipulated;
+  
+- ***Create Challenges with other users:*** After joining a team with other users you can create a challenge task with them.
 
-**Unique Selling Points (USPs):** - [Gamifies tasks with RPG mechanics, XP, levels, rewards, and team challenges.] 
+**Unique Selling Points (USPs):**
+- ***Gamifies tasks with RPG mechanics:*** The purpose of the app is a game in which you have to keep the avatar alive by completing tasks;
+- ***XP to level up:*** When you complete a task, XP is given to level up and earn gold coins to customize your avatar;
+- ***Team Challenges:*** You can create a challenge task with other users inside a team.
 
-**Limitations/Weaknesses:** - [Lacks educational structure, feels repetitive, limited automation, and complex for beginners.] 
+**Limitations/Weaknesses:**
+- ***The Asthetics:*** We didn't find the aesthetics of the application very appealing;
+- ***Confusing for Beginners:*** Even with the information that is given when you enter the app, its operation is still quite confusing;
+- ***Avatar Customization:*** The avatar customization is too limited since this is the main differentiator of the app;
 
 ---
 
 ## Screenshots
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="Home_Page.png" alt="Web_Homepage" height="333px">
+    <p style="text-align: center;">Website's Homepage</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="AppHomePage.jpeg" alt="App_Homepage" height="333px">
+    <p style="text-align: center;">App's Homepage</p>
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="create_tasks.png" alt="Create_Taks_Web" height="333px">
+    <p style="text-align: center;">How to create any tasks on the Website</p>
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="habits.jpeg" alt="Create_Habit" height="333px">
+    <p style="text-align: center;">How to create a Habit in the App</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="dailies.jpeg" alt="Create_Daily" height="333px">
+    <p style="text-align: center;">How to create a Daily in the App</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="to_do.jpeg" alt="Create_To_Do" height="333px">
+    <p style="text-align: center;">How to create a To Do in the App</p>
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+    <img src="complete_task_web.png" alt="Complete_Task_Web" height="333px">
+    <p style="text-align: center;">After completing a task on the Website</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="complete_task.jpeg" alt="Complete_Task" height="333px">
+    <p style="text-align: center;">After completing a task in the App</p>
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+    <img src="challenge_web.jpeg" alt="Create_Challenge_Web" height="333px">
+    <p style="text-align: center;">How to Create a Challenge with other users</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="challenge_app.jpeg" alt="Create_Challenge_app" height="333px">
+    <p style="text-align: center;">You can only create a challenge with other users on the Website</p>
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+    <img src="avatar_web.png" alt="Avatar_Customization_Web" height="333px">
+    <p style="text-align: center;">How to Customize your Avatar on the Website</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="avatar_app.jpeg" alt="Avatar_Customization_App" height="333px">
+    <p style="text-align: center;">How to Customize your Avatar on the App</p>
+  </div>
+</div>
+
+
 
 
 ## Online Reviews
