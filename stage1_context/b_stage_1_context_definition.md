@@ -14,7 +14,7 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| Habitica    | Mobile app/web app of study gamification        | [[Competitor Analysis AmazonShoes]] |
+| Habitica    | Mobile app/web app that turns productivity and habit tracking into a roleplaying game. Users create their own characaters, earn XP for completing tasks, and lose health for failing habits. It also features social elements like parties, guilds and challenges to keep users engaged.      | [Habitica official website](https://habitica.com) |
 |            |                                             |                                     |
 
 
@@ -25,7 +25,6 @@
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
 
 For the heuristic evaluation, 3 experts were considered. We started by installing the mobile app of our competitor, Habitica, and using it to understand its strengths and weaknesses. Then we created a table with our competitor's defects and used a scale from 0 to 4 to rate it, where 0 is "I don´t agree that this is a usability problem at all" and 4 is "Usability catastrophe". We also use Nielsen's heuristics. 
 
@@ -48,11 +47,11 @@ For the heuristic evaluation, 3 experts were considered. We started by installin
 
 | **Issue**       | **Catarina** | Marta | Matilde | Recommendations                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Application aesthetics | 1            | 1        | 1        | Something could be done to the button to... |
-| Creating an item with a very high price causes the app to crash   | 1            | 2        | 2        | Instead of the app crashing, the price button wouldn't let you pass an x ​​number                    |
-| Always refresh the Party chat             | 2             | 3         | 3         | nao sei, ver isto!!!!                     |
-| You can't create joint tasks with other users, only challenges            | 3             | 4         | 3         |  Implement joint tasks instead of just challenges                                            |
-| Not at all intuitive (we have to select a filter to see the things done)             | 4             | 4         | 4         | nao sei, ver isto!!!!                 |
+| Application aesthetics | 1            | 1        | 1        | Implement a minimal, intuitive design with more appealing colors and "game" art |
+| Creating an item with a very high price causes the app to crash   | 1            | 2        | 2        | Perhaps a good way to tackle the problem would be to create an upper boundary on the price to stop the app from crashing + adding an apropriate error message                    |
+| Always refresh the Party chat             | 2             | 3         | 3         | The chat server should be constantly listening for new messages and update the UI automatically without the need to refresh the page                       |
+| You can only create challenges with other users, not tasks.          | 3             | 4         | 3         |  Implement this feature                                            |
+| Not at all intuitive (we have to select a filter to see the completed tasks)           | 4             | 4         | 4         | Perhaps making the completed tasks appear at the end of the list (with the not competed tasks above them) would be a more intuitive way for the user to aknowledge completed tasks                 |
 
 
 
@@ -60,7 +59,13 @@ For the heuristic evaluation, 3 experts were considered. We started by installin
 ### - Cognitive Walkthrough
 
 #### Method
-[Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
+To conduct our Cognitive Walkthrough we took the following approach:
+1. Identify the tasks nuclear to the system - As a group, we determined which tasks were essencial for the system's purpose, focusing on those users would perform most frequently or that were critical to their sucess.
+2. Break the tasks identified into executable steps: For each identified task, we documented the individual steps a user must take to complete it.
+3. Evaluate each step using 2 key questions - We assessed each action by asking:
+	* "Will the user know what to do at this step?"
+	* "If the user does the right thing, will they know that they did the right thing and are making progress towards their goal?"
+4. Document all findings in a structured format - We recorded all observations in a table, making note of the answers to the above questions.
 
 #### Task Selection and Task Analysis
 
@@ -100,10 +105,10 @@ Task: Create a task
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | Go to the to-dos or dailies tab   | Yes                                        |       | Yes                                                                                 |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | Click on the +   | Yes                                         |       | Yes                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | Fill in the fields   | Yes                                         |       | Yes                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| 4    | Click create        | Yes                                         |       | Yes                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1      | Go to the to-dos or dailies tab   | Yes                                        | This step is quite intuitive for new users       | Yes                                                                                 |  By going to the correct tab the user will see a proper space to create a new task     | Yes                       | -------------             |     |
+| 2      | Click on the +   | Yes                                         | This step is quite intuitive for new users       | Yes                                                                                  | By executing this action a pop up to create a new task will be shown       | Yes                       |-------------             |     |               |     |
+| 3      | Fill in the fields   | Yes                                         | This step is quite intuitive for new users       | Yes                                                                                  | When this step is executed there is no direct feedback that the goal of creating a new task is closer to being met. However it is still intuitive that we are getting closer to the end objective.        | Yes                       | Making the "create task" button active only when all fields have been filled             |     |              |     |
+| 4    | Click create        | Yes                                         | This step is quite intuitive for new users      | Yes                                                                                  | -------------| Yes                       | -------------             |     |               |     |
 |
 
 
@@ -113,16 +118,16 @@ Task: Complete a task
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | Go to to-dos tab   | Yes                                        |       | Yes                                                                                 |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | Click on the dot next to the previously created task   | Yes                                         |       | No                                                                                 |       | [Yes/No]                       | [Suggestion 2]              |     |
+| 1      | Go to to-dos tab   | Yes                                        | This step is quite intuitive for new users       | Yes                                                                                 |   By going to the correct tab the user will see a proper space where all their tasks will be listed    | Yes                       |       -------------|        |     |
+| 2      | Click on the dot next to the previously created task   | Yes                                         |   This step is quite intuitive for new users    | No                                                                                 |By completing this step the task will simply disappear if the filter to show the completed tasks is not active. For this reason new users will not be able to confirm if the task has been perceived as completed in the application, just disappeard or simply was deleted.       | Yes                       | Make the completed tasks appear at the end of the list with a diffent color or with lower opacity values.              |     |
 | 
 
 
-Task: Create task with other users
+Task: Create task with other users - MATHILDIS MUDA ISTO PLS
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | Go to Teams tab   | Yes                                        |       | Yes                                                                                 |       | [Yes/No]                       | [Suggestion 1]              |     |
+| 1      | Go to Teams tab   | [IDK]                                        | The teams tab is not clearly identified in the mobile app (it appears as 3 lines - like a menu icon)       | [IDK]                                                                              |By clicking on this icon the user will be brought to the menu page which has a lot of non-relationed information to the task they are trying to complete. This makes it harder for new users to understand if they are in the correct place.        | Yes                       | Implement a separate tab for social matters.              |     |
 | 2      | Create or join a team   | No                                         |       | Yes                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
 | 3      | Click Create Challenge   | Yes                                         |       | Yes                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
 | 4    | Fill in the requested        | Yes                                         |       | Yes                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
@@ -132,7 +137,31 @@ Task: Create task with other users
 
 ## B.1c. Overall Analysis
 
-[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
+### Competitor analysis summary
+#### Main findings
+* **Gamification is highly engaging** - Habitica effectively motivates users with XP, leaderboards, and rewards, making study and task management more fun.
+* **Social & collaborative features enhance engagement** – The ability to form "Parties" is a strong point that fosters collaboration.
+* **Task creation is flexible but can feel overwhelming** – Some users find Habitica’s customization options too complex initially.
+* **Feedback mechanisms (XP, streaks) drive consistency** – Users appreciate clear progress indicators.
+
+### How this informs our design
+* **Keep gamification but simplify the UI** for easier onboarding.
+* **Ensuring academic incentives** (not just XP, but meaningful study rewards)
+* **Offering strong colaboration tools** (study groups, shared challenges) whilst addressing privacy matters.
+
+### HCI SWOT analysis
+
+| **SWOT Element** | **HCI Focus**  | **Example in UX/UI**  |
+|-----------------|---------------|-----------------------|
+| **Strengths**   | **Gamification** | After completing a task, a certain amount of XP is given towards the user's avatar experience. |
+|                 |               | Coins are accumulated by completing tasks, which we can spend on items to place on our avatar. |
+|                 |               | The task creation part works fine (that's the main purpose of the app). |
+|                 |               | The system works well, as if it were a game. |
+| **Weaknesses**  | **Information**  | At first, when we create an account and enter the app, many pop-ups appear with a lot of information, and the app is still very confusing to use. |
+|                 | **Intuitiveness** | In the tasks section, after creating and completing one, we have to open a tab and select a filter to see the tasks we have already completed. |
+|                 | **Organization**  | The app itself is too disorganized. At the bottom, there are many tabs, some of which don't even make sense for the purpose of the application. |
+| **Opportunities** | **Platform for teachers** | Create an interface for teachers, where they can create classes and add students. Within these classes, add tasks that students have to complete. |
+| **Threats**     | **Task sharing** | In the competing app, it’s possible to create a channel and tasks with other users. |
 
 ---
 
