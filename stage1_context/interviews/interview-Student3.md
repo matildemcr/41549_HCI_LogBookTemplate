@@ -14,23 +14,23 @@
 [Describe the task in the user’s words] 
 
 **What are the main pain points or difficulties they experience?** 
-- [Challenge 1] 
-- [Challenge 2] 
-- [Challenge 3] 
+- Difficulty in setting priorities: not knowing which tasks are most urgent or important
+- Lack of motivation when studying alone 
+- Forgetting tasks or deadlines 
 
 **Are there any workarounds or strategies they currently use?** 
-- [List of workarounds] 
+- writing tasks on paper or using phone notes
 
 ---- 
 ## Tools & Environment 
 **What tools or methods does the user currently rely on?** 
-- [Tool 1] 
-- [Tool 2] 
-- [Any manual processes] 
+- Group chats with classmates for the assignments
+- Reminders for tracking deadlines
+
 
 **Are there any frustrations or limitations with these tools?** 
-- [Limitation 1] 
-- [Limitation 2] 
+- No teamwork: studying feels isolating because there's no shared progress or group motivation
+- No motivation: completing tasks feels like a chore rather than an accomplishment 
 
 **What features do they wish these tools had?** 
 - Clans: The participant likes the idea to create a clan with his friends and study together and it has benefits, such as not getting lost in the material or forgetting about some work or task that you have to do.
@@ -40,14 +40,15 @@
 ## Expectations for a Novel Approach 
 
 **What would an ideal solution look like for them?** 
-- [Key expectations] 
+- an app if a personal side, with the personal goalsm, tasks and groups with friends (clans), and a academic side, with the classes and groups
 
 **What concerns or hesitations do they have about new approaches?** 
-- [Concern 1] 
-- [Concern 2] 
+- feer that the app might become too focused on competition and less on actual learning 
+- worry that tasks created by teachers could become overwhelming if not balanced with personal goals 
 
 **How do they measure success for completing the task efficiently?** 
-- [Efficiency metric or criteria] 
+- staying consistent with the study sessions over time
+- completing all tasks before deadlines withou last-minute stress
 
 **Mobile vs Web**
 - The participant prefers the web. In these days, the students get distracted by their phones. Even so, the app is a good idea, it's always good to have the mobile version of an app, but right know to focus only on the web version.

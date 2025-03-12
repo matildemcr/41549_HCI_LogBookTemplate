@@ -14,23 +14,25 @@
 [Describe the task in the user’s words] 
 
 **What are the main pain points or difficulties they experience?** 
-- [Challenge 1] 
-- [Challenge 2] 
-- [Challenge 3] 
+- Poor time management: not knowing how lon to dedicate to each subject
+- Lack of structure: feeling overwhelmed by the amount of material to cover
+- Struggling to prioritize tasks: not knowing which ones to focus on first
 
 **Are there any workarounds or strategies they currently use?** 
-- [List of workarounds] 
+- Creating study schedules
+- Using online videos to clarify difficult concepts
+- Asking classmates for help with specific problems
 
 ---- 
 ## Tools & Environment 
 **What tools or methods does the user currently rely on?** 
-- [Tool 1] 
-- [Tool 2] 
-- [Any manual processes] 
+- Google Calendar and phone reminders
+- To-do apps
 
 **Are there any frustrations or limitations with these tools?** 
-- [Limitation 1] 
-- [Limitation 2] 
+- No clear indication of which tasks are more urgent or how much progress has been made
+- tasks from differentes sources (calendar, notes, to-do list) aren't connected
+
 
 **What features do they wish these tools had?** 
 - Clans: The participant likes the idea, it's almost like the clans on the online games. It would be great to creat a clan with his friends and study together
@@ -40,14 +42,16 @@
 ## Expectations for a Novel Approach 
 
 **What would an ideal solution look like for them?** 
-- [Key expectations] 
+- A platform that helps keep track of every tasks that need to be done, with a progress bar or task completion percentage to provide motivation
 
 **What concerns or hesitations do they have about new approaches?** 
-- [Concern 1] 
-- [Concern 2] 
+- the system becoming to complex or hard to use
+
 
 **How do they measure success for completing the task efficiently?** 
-- [Efficiency metric or criteria] 
+- completing tasks consistently without last-minute stress
+- feeling more in control of their study schedule
+- seeing measurable progress over time
 
 **Mobile vs Web**
 - The participant prefers the web because all of his study is on the computer. However the mobile app was also a good idea because is more easy to go and check the task that we have to do
