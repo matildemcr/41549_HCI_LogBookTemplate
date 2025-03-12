@@ -150,8 +150,10 @@ Task: Create task with other users
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+| 06-03-2025 | Student 1      |  Struggles with motivation and procrastination, but thinks clans and leaderboards would help create motivation through competition | [📄 Notes](interview-Student1.md) |     |
+| 06-03-2025 | Student 2      | Needs better task management and progress tracking through a structured platform with a progress bar | [📄 Notes](interview-Student2.md) |     |
+| 06-03-2025 | Student 3      | Wants a balanced app that combines personal and academic goals while maintaining motivation through shared progress in clans | [📄 Notes](interview-Student3.md) |     |
+|
 
 ### Common Themes & Patterns 
 

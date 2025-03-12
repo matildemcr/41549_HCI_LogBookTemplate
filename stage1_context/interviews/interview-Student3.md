@@ -11,7 +11,7 @@
 ## Task Overview 
 
  **What task is the user trying to accomplish?** 
-[Describe the task in the user’s words] 
+The user wants to stay organized while studying by managing all tasks in one place and tracking progress. The user also wants to feel motivated through a competitive and social element with friends and classmates. 
 
 **What are the main pain points or difficulties they experience?** 
 - Difficulty in setting priorities: not knowing which tasks are most urgent or important

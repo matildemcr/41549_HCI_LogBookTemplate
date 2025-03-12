@@ -11,7 +11,7 @@
 ## Task Overview 
 
  **What task is the user trying to accomplish?** 
-[Describe the task in the user’s words] 
+The user wants to improve their ability to manage study tasks efficiently and track progress over time. The goal is to avoid feeling overwhelmed by knowing exactly what needs to be done and when. 
 
 **What are the main pain points or difficulties they experience?** 
 - Poor time management: not knowing how lon to dedicate to each subject
