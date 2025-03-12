@@ -11,26 +11,28 @@
 ## Task Overview 
 
  **What task is the user trying to accomplish?** 
-[Describe the task in the user’s words] 
+The user is trying to improve their study habits in a structured and engaging way while staying motivated and avoiding procrastination.
+
 
 **What are the main pain points or difficulties they experience?** 
-- [Challenge 1] 
-- [Challenge 2] 
-- [Challenge 3] 
+- Lack of motivation: Studying alone can be monotonous and unmotivating.
+- Procrastination: The user struggles to stay consistent and often delays studying.
+- Distractions: Studying on mobile devices leads to distractions from social media and other apps.
 
 **Are there any workarounds or strategies they currently use?** 
-- [List of workarounds] 
+- Using to-do lists to organize study tasks.
+- Setting self-imposed deadlines to stay on track.
+- Studying with friends or classmates for accountability.
 
 ---- 
 ## Tools & Environment 
 **What tools or methods does the user currently rely on?** 
-- [Tool 1] 
-- [Tool 2] 
-- [Any manual processes] 
+- Online study platforms like Quizlet or Anki.
+- Manual notes and summaries to review concepts.
 
 **Are there any frustrations or limitations with these tools?** 
-- [Limitation 1] 
-- [Limitation 2] 
+- Lack of engagement: Traditional methods feel repetitive and uninspiring.
+- No competitive element: Studying alone doesn’t provide motivation through competition.
 
 **What features do they wish these tools had?** 
 - Clans: The participant likes the ideia of forming clans with their friends and "play" against other clans 
@@ -40,14 +42,18 @@
 ## Expectations for a Novel Approach 
 
 **What would an ideal solution look like for them?** 
-- [Key expectations] 
+- A structured gamified system with progress tracking.
+- Competitive and social elements like leaderboards, clans, and rewards.
+- A web-based platform to avoid mobile distractions.
 
 **What concerns or hesitations do they have about new approaches?** 
-- [Concern 1] 
-- [Concern 2] 
+- Cheating: Some students may find ways to complete tasks dishonestly.
+- Fairness: Ensuring that XP and rewards are given based on real effort.
 
 **How do they measure success for completing the task efficiently?** 
-- [Efficiency metric or criteria] 
+- XP progression and leaderboard position.
+- Improvement in study consistency over time.
+- Better test performance and subject understanding.
 
 **Mobile vs Web**
 - The participant prefers the web. In these times, students study on the computer, and not on their phones, which is sometimes a source of lack of concentration
