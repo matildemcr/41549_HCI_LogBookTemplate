@@ -56,8 +56,19 @@
 ---
 
 
+# Hierarchical task analysis
 
+## Breaking down user actions
+Alongside the SWOT analysis, we also conducted an analysis to the main user actions in the system to be developed. Bellow we present the  digrams that describe those actions.
 
+### Joana creates a task for her students
+![Joana creates a task for her students](Joana_task.drawio.png) 
+
+### Leonor completes a task
+![Leonor completes a task](Leonor_task.drawio.png) 
+
+### Manuel creates a task for himself
+![Manuel creates a task for himself](task_manuel.drawio.png) 
 
 # Scenarios
 
