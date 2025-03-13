@@ -171,7 +171,15 @@ Task: Create task with other users - MATHILDIS MUDA ISTO PLS
 
 ## B.2a. Method
 
-[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+In the interviews we focused only on university students, since they will be the target audience of our system. For the interviews we decided to ask 4 key questions that would be most relevant to our system, in terms of the use that users could enjoy. The questions were the following:
+- [ ] do you think it would make sense to have clans? - perform tasks and earn XP together; have a leaderboard, etc.
+- [ ] if we had leaderboards, would it make sense to award prizes to the top 3?
+- [ ] we are thinking of doing it on the web, but do you think it would make more sense to do it on mobile.
+  - [ ] web - easier
+  - [ ] mobile - more practical
+- [ ] do you think it makes sense to have a personal and an academic version of the system?
+  - [ ] personal - you have control over the tasks you create and are responsible for completing them; there is no verification
+  - [ ] academic - a version in which teachers assign the tasks and students are responsible for completing them; there is verification
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
