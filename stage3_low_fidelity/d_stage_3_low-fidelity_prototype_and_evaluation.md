@@ -12,7 +12,7 @@ The low fidelity prototype was developed to explore early design ideas for *Lear
 ### Tools Used  
 We created the low fidelity prototype using pen-and-paper sketches of the main screens of our application.
 
-### Key Screens  - <code style="color : red">INSERT PHOTOS!!!!!!!!!!!!!! - under each topic</code>
+### Key Screens <code style="color : red">INSERT PHOTOS!!!!!!!!!!!!!! - under each topic</code>
 The prototype included screens for all of the different purposes of the app:
 - **Personal**
   - A home screen with the user's avatar and XP level, badges, a chart showing progress over the year and a leaderboard.
