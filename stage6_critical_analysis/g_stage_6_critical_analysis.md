@@ -11,8 +11,8 @@ This project was completed as a team of 3 members. We divided the workload as fo
 | Task                        | Responsible Person | 
 |-----------------------------|--------------------|
 | Low-fidelity and High-fidelity prototype - Personal view      | Marta              |       |
-| Low-fidelity and High-fidelity prototype - Academic Student view   | Matilde           |
-| Low-fidelity and High-fidelity prototype - Academic Teacher view   | Catarina               |
+| Low-fidelity and High-fidelity prototype - Academic Student view   | Catarina           |
+| Low-fidelity and High-fidelity prototype - Academic Teacher view   | Matilde               |
 | Documentation (Log Book)               | Workload was evenly distributed           | 
 | Presentation materials (Powepoint)               | Workload was evenly distributed           | 
 
