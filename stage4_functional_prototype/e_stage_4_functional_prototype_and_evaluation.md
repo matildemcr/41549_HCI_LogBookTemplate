@@ -26,6 +26,15 @@ Based on feedback from the low-fidelity prototype, we:
 - Implemented a switch that clearly differentiates academic mode from personal mode.
 - Sparsed the information on the home page to lower cognitive load.
 
+### Main screens (alusive to the persona's tasks)
+- Personal TaskBoard
+![personal_taskboard](./prototype_assets/personal_taskboard.png)
+- Teacher's create a task
+![teacher_create_task](./prototype_assets/teacher_task.png)
+
+### All screens
+INSERT VIDEO!!!!!!!!
+
 ---
 
 ## E.X. User Evaluation
