@@ -40,6 +40,9 @@ This project was completed as a team of 3 members. We divided the workload as fo
 - Add new features like daily streaks, multi-language support, avatar customization and some more gamification elements such as an item shop, clan quests, etc.
 - Make the website fully responsive.
 - Integrating a backend for real-time user data syncing (databases, user records).
+- Make the interface a bit more related to the theme "LearnQuest".
+- Separate the current individual messages by classes (on the teacher interface).
+- Improve the submission checking section for the teacher's view.
 
 ## Self-evaluation
 ### Distributed workload percentages

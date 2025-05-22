@@ -12,34 +12,62 @@ The low fidelity prototype was developed to explore early design ideas for *Lear
 ### Tools Used  
 We created the low fidelity prototype using pen-and-paper sketches of the main screens of our application.
 
-### Key Screens <code style="color : red">INSERT PHOTOS!!!!!!!!!!!!!! - under each topic</code>
+### Key Screens
 The prototype included screens for all of the different purposes of the app:
 - **Personal**
   - A home screen with the user's avatar and XP level, badges, a chart showing progress over the year and a leaderboard.
+  ![home](./assets/home.jpeg)
   - A task dashboard screen where the user can create new tasks, new projects and select different ways to see them.
+  ![personal_tasks](./assets/StudentPersonalTasks.jpeg)
   - A calendar view where the user can see all of the existing tasks for a given month.
+  ![calendar](./assets/Calendar.jpeg)
   - A clan home page view where users can check some stats on their clan.
+  ![clan_home](./assets/ClanDashBoard.jpeg)
   - A clan leaderboard view where users can check the clan ranking compared to other clans.
+  ![clan_leaderboard](./assets/ClanLeaderBoard.jpeg)
   - A clan members page where users can check all of the members that belong to their clan.
+  ![clan_members](./assets/ClanMembers.jpeg)
   - A clan chat page where users can send messages to other members of the clan.
+  ![clan_chat](./assets/ClanChat.jpeg)
 
 - **Academic Student**
   - A home screen with the user's avatar and XP level, badges, a chart showing progress over the year and a leaderboard.
+  ![home](./assets/home.jpeg)
   - A task dashboard screen where the user can see the assigned tasks by their teacher.
+  ![academic_tasks](./assets/StudentAcademicTasks.jpeg)
   - A task details screen where the user can see all of the details of a given task such as the XP, the details, additional instructions, reference materials and files that will be sumbitted with the task. The user can also use this screen to submit tasks.
+  ![academic_student_tasks_details](./assets/StudentAcademic-TaskDetails.jpeg)
   - A calendar view where the user can see all of the existing tasks for a given month.
+  ![calendar](./assets/Calendar.jpeg)
   - A clan home page view where users can check some stats on their clan.
+  ![clan_home](./assets/ClanDashBoard.jpeg)
   - A clan leaderboard view where users can check the clan ranking compared to other clans.
+  ![clan_leaderboard](./assets/ClanLeaderBoard.jpeg)
   - A clan members page where users can check all of the members that belong to their clan.
+  ![clan_members](./assets/ClanMembers.jpeg)
   - A clan chat page where users can send messages to other members of the clan.
+  ![clan_chat](./assets/ClanChat.jpeg)
 
 - **Academic Teacher**
   - A home screen with the user's avatar, a chart showing progress over the year for a given class and a leaderboard with all their different classes active at the moment.
+  ![home](./assets/home.jpeg)
   - A classes view where the user can create new classes.
+  ![classes](./assets/teacherTeams.jpeg)
   - A classes creation view where the user can fill a form to create a new class.
+  ![new_class1](./assets/teacher-NewTeam1.jpeg)
+  ![new_class2](./assets/teacher-NewTeam2.jpeg)
+  ![new_class3](./assets/teacher-NewTeam3.jpeg)
   - A specific class view where the user can chat with all the students previously added in that class, assign and create new tasks and attach resources.
+  ![chat](./assets/teacherChat.jpeg)
+  ![class](./assets/teacherTasks.jpeg)
+  ![resources](./assets/teacherResources.jpeg)
   - A calendar view where the user can see all of the existing tasks for a given month.
+  ![calendar](./assets/Calendar.jpeg)
   - A chat screen where the user can send messages to their students
+  ![chat](./assets/ClanChat.jpeg)
+
+### All screens
+![all](./assets/All.jpeg)
 
 
 ### Design Features

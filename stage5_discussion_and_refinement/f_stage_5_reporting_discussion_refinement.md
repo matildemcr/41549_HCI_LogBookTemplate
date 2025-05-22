@@ -20,11 +20,9 @@ The high-fidelity prototype was evaluated by a group of 6 potential users. Overa
 Based on user feedback, the following changes were made:
 
 - Changed label “new page” to **“new task”** in the personal's task board view.
-- Move the **Attach button above the Submit button** in the student's task view.
+- **Added a message** to make sure the user attaches files before submitting it.
 - Display user **avatars** in the personal view for visual consistency.
 - Rename the **leaderboard on the Home page** from the teacher's home view to **"Classes**.
-- Change the teacher's personal view for the to display “Joana” instead of a generic placeholder.
-- Update **Joana’s personal data** to ensure it’s unique and not duplicated from other users.
 - Add functionality for the teacher to **view individual student submissions** per class.
 - Rename task icon label to **“Tasks”** for clarity.
 - Create a new tab in the task board's filter bar for **To Do** projects (shows all tasks not marked as done).
