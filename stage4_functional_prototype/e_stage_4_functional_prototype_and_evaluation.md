@@ -36,7 +36,6 @@ Based on feedback from the low-fidelity prototype, we:
 <video width="320" height="240" controls>
   <source src="video_top.mp4" type="video/mp4">
 </video>
----
 
 ## E.X. User Evaluation
 
