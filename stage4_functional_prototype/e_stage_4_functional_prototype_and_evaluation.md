@@ -33,8 +33,9 @@ Based on feedback from the low-fidelity prototype, we:
 ![teacher_create_task](./prototype_assets/teacher_task.png)
 
 ### All screens
-INSERT VIDEO!!!!!!!!
-
+<video width="320" height="240" controls>
+  <source src="video_top.mp4" type="video/mp4">
+</video>
 ---
 
 ## E.X. User Evaluation
@@ -80,7 +81,7 @@ As part of post-testing sureveys we asked the users to answer a simple SUS Quest
 
 - **The actual set of questions** - 1-5 Likert Scale with 1 being "Totaly disagree" and 5 "Totaly agree"
   1. I think that I would like to use this system frequently.
-  2. I found the system unnecessarily complex.
+  2. I found the system unnecessarifly complex.
   3. I thought the system was easy to use.
   4. I think that I would need the support of a technical person to be able to use this system.
   5. I found the various functions in this system were well integrated.
